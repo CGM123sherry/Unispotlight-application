@@ -6,7 +6,7 @@
       "domains": ["anu.ac.ke"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.anu.ac.ke/"],
+      "web_pages": ["https://www.anu.ac.ke/"],
       "contact": {
         "phone": "+254 20 1234567",
         "email": "info@anu.ac.ke",
@@ -41,7 +41,7 @@
       "domains": ["cuea.edu"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.cuea.edu/"],
+      "web_pages": ["https://www.cuea.edu/"],
       "contact": {
         "phone": "+254 20 2345678",
         "email": "info@cuea.edu",
@@ -76,7 +76,7 @@
       "domains": ["daystar.ac.ke"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.daystar.ac.ke/"],
+      "web_pages": ["https://www.daystar.ac.ke/"],
       "contact": {
         "phone": "+254 20 3456789",
         "email": "info@daystar.ac.ke",
@@ -111,7 +111,7 @@
       "domains": ["dkut.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.dkut.ac.ke/"],
+      "web_pages": ["https://www.dkut.ac.ke/"],
       "contact": {
         "phone": "+254 20 4567890",
         "email": "info@dkut.ac.ke",
@@ -146,7 +146,7 @@
       "domains": ["egerton.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.egerton.ac.ke/"],
+      "web_pages": ["https://www.egerton.ac.ke/"],
       "contact": {
         "phone": "+254 20 5678901",
         "email": "info@egerton.ac.ke",
@@ -181,7 +181,7 @@
       "domains": ["jkuat.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.jkuat.ac.ke/"],
+      "web_pages": ["https://www.jkuat.ac.ke/"],
       "contact": {
         "phone": "+254 67 5870001",
         "email": "info@jkuat.ac.ke",
@@ -216,7 +216,7 @@
       "domains": ["ku.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.ku.ac.ke/"],
+      "web_pages": ["https://www.ku.ac.ke/"],
       "contact": {
         "phone": "+254 20 8703000",
         "email": "info@ku.ac.ke",
@@ -251,7 +251,7 @@
       "domains": ["maseno.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.maseno.ac.ke/"],
+      "web_pages": ["https://www.maseno.ac.ke/"],
       "contact": {
         "phone": "+254 57 3516201",
         "email": "info@maseno.ac.ke",
@@ -286,7 +286,7 @@
       "domains": ["mu.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.mu.ac.ke/"],
+      "web_pages": ["https://www.mu.ac.ke/"],
       "contact": {
         "phone": "+254 53 43363",
         "email": "info@mu.ac.ke",
@@ -321,7 +321,7 @@
       "domains": ["mmu.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.mmu.ac.ke/"],
+      "web_pages": ["https://www.mmu.ac.ke/"],
       "contact": {
         "phone": "+254 20 7252000",
         "email": "info@mmu.ac.ke",
@@ -356,7 +356,7 @@
       "domains": ["mut.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.mut.ac.ke/"],
+      "web_pages": ["https://www.mut.ac.ke/"],
       "contact": {
         "phone": "+254 60 2031012",
         "email": "info@mut.ac.ke",
@@ -391,7 +391,7 @@
       "domains": ["pu.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.pu.ac.ke/"],
+      "web_pages": ["https://www.pu.ac.ke/"],
       "contact": {
         "phone": "+254 41 7525102",
         "email": "info@pu.ac.ke",
@@ -426,7 +426,7 @@
       "domains": ["seku.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.seku.ac.ke/"],
+      "web_pages": ["https://www.seku.ac.ke/"],
       "contact": {
         "phone": "+254 20 2413859",
         "email": "info@seku.ac.ke",
@@ -462,7 +462,7 @@
       "domains": ["tukenya.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.tukenya.ac.ke/"],
+      "web_pages": ["https://www.tukenya.ac.ke/"],
       "contact": {
         "phone": "+254 20 343672",
         "email": "info@tukenya.ac.ke",
@@ -501,7 +501,7 @@
       "domains": ["tum.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.tum.ac.ke/"],
+      "web_pages": ["https://www.tum.ac.ke/"],
       "contact": {
         "phone": "+254 20 2492222",
         "email": "info@tum.ac.ke",
@@ -540,7 +540,7 @@
       "domains": ["usiu.ac.ke"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.usiu.ac.ke/"],
+      "web_pages": ["https://www.usiu.ac.ke/"],
       "contact": {
         "phone": "+254 730 116000",
         "email": "info@usiu.ac.ke",
@@ -575,7 +575,7 @@
       "domains": ["ueab.ac.ke"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.ueab.ac.ke/"],
+      "web_pages": ["https://www.ueab.ac.ke/"],
       "contact": {
         "phone": "+254 20 2091604",
         "email": "info@ueab.ac.ke",
@@ -610,7 +610,7 @@
       "domains": ["uoeld.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.uoeld.ac.ke/"],
+      "web_pages": ["https://www.uoeld.ac.ke/"],
       "contact": {
         "phone": "+254 20 2249175",
         "email": "info@uoeld.ac.ke",
@@ -654,7 +654,7 @@
       "domains": ["embuni.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.embuni.ac.ke/"],
+      "web_pages": ["https://www.embuni.ac.ke/"],
       "contact": {
         "phone": "+254 20 2444135",
         "email": "info@embuni.ac.ke",
@@ -690,7 +690,7 @@
       "domains": ["zetech.ac.ke"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.zetech.ac.ke/"],
+      "web_pages": ["https://www.zetech.ac.ke/"],
       "contact": {
         "phone": "+254 20 2535811",
         "email": "info@zetech.ac.ke",
@@ -729,7 +729,7 @@
       "domains": ["kca.ac.ke"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.kca.ac.ke/"],
+      "web_pages": ["https://www.kca.ac.ke/"],
       "contact": {
         "phone": "+254 20 3606000",
         "email": "info@kca.ac.ke",
@@ -761,7 +761,7 @@
       "domains": ["kisiiuniversity.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.kisiiuniversity.ac.ke/"],
+      "web_pages": ["https://www.kisiiuniversity.ac.ke/"],
       "contact": {
         "phone": "+254 59 22227",
         "email": "info@kisiiuniversity.ac.ke",
@@ -795,7 +795,7 @@
       "domains": ["mku.ac.ke"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.mku.ac.ke/"],
+      "web_pages": ["https://www.mku.ac.ke/"],
       "contact": {
         "phone": "+254 20 810078",
         "email": "info@mku.ac.ke",
@@ -829,7 +829,7 @@
       "domains": ["egerton.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.egerton.ac.ke/"],
+      "web_pages": ["https://www.egerton.ac.ke/"],
       "contact": {
         "phone": "+254 51 2217941",
         "email": "info@egerton.ac.ke",
@@ -861,7 +861,7 @@
       "domains": ["tukenya.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.tukenya.ac.ke/"],
+      "web_pages": ["https://www.tukenya.ac.ke/"],
       "contact": {
         "phone": "+254 20 8025000",
         "email": "info@tukenya.ac.ke",
@@ -892,7 +892,7 @@
       "domains": ["ku.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.ku.ac.ke/"],
+      "web_pages": ["https://www.ku.ac.ke/"],
       "contact": {
         "phone": "+254 20 8703000",
         "email": "info@ku.ac.ke",
@@ -923,7 +923,7 @@
       "domains": ["uonbi.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.uonbi.ac.ke/"],
+      "web_pages": ["https://www.uonbi.ac.ke/"],
       "contact": {
         "phone": "+254 20 3318000",
         "email": "info@uonbi.ac.ke",
@@ -954,7 +954,7 @@
       "domains": ["jkuat.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.jkuat.ac.ke/"],
+      "web_pages": ["https://www.jkuat.ac.ke/"],
       "contact": {
         "phone": "+254 67 52711",
         "email": "info@jkuat.ac.ke",
@@ -986,7 +986,7 @@
       "domains": ["mu.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.mu.ac.ke/"],
+      "web_pages": ["https://www.mu.ac.ke/"],
       "contact": {
         "phone": "+254 53 43353",
         "email": "info@mu.ac.ke",
@@ -1017,7 +1017,7 @@
       "domains": ["anu.ac.ke"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.anu.ac.ke/"],
+      "web_pages": ["https://www.anu.ac.ke/"],
       "contact": {
         "phone": "+254 20 2419295",
         "email": "info@anu.ac.ke",
@@ -1044,7 +1044,7 @@
       "domains": ["chuka.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.chuka.ac.ke/"],
+      "web_pages": ["https://www.chuka.ac.ke/"],
       "contact": {
         "phone": "+254 20 2330432",
         "email": "info@chuka.ac.ke",
@@ -1071,7 +1071,7 @@
       "domains": ["maseno.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.maseno.ac.ke/"],
+      "web_pages": ["https://www.maseno.ac.ke/"],
       "contact": {
         "phone": "+254 57 2501810",
         "email": "info@maseno.ac.ke",
@@ -1098,7 +1098,7 @@
       "domains": ["mu.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.mu.ac.ke/"],
+      "web_pages": ["https://www.mu.ac.ke/"],
       "contact": {
         "phone": "+254 53 43353",
         "email": "info@mu.ac.ke",
@@ -1129,7 +1129,7 @@
       "domains": ["daystar.ac.ke"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.daystar.ac.ke/"],
+      "web_pages": ["https://www.daystar.ac.ke/"],
       "contact": {
         "phone": "+254 20 2345098",
         "email": "info@daystar.ac.ke",
@@ -1155,7 +1155,7 @@
       "domains": ["pacuniversity.ac.ke"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.pacuniversity.ac.ke/"],
+      "web_pages": ["https://www.pacuniversity.ac.ke/"],
       "contact": {
         "phone": "+254 20 2342920",
         "email": "info@pacuniversity.ac.ke",
@@ -1179,7 +1179,7 @@
       "domains": ["kabianga.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.kabianga.ac.ke/"],
+      "web_pages": ["https://www.kabianga.ac.ke/"],
       "contact": {
         "phone": "+254 20 2140507",
         "email": "info@kabianga.ac.ke",
@@ -1205,7 +1205,7 @@
       "domains": ["ku.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.ku.ac.ke/"],
+      "web_pages": ["https://www.ku.ac.ke/"],
       "contact": {
         "phone": "+254 20 8703000",
         "email": "info@ku.ac.ke",
@@ -1236,7 +1236,7 @@
       "domains": ["strathmore.edu"],
       "ownership": "Private",
       "state-province": null,
-      "web_pages": ["http://www.strathmore.edu/"],
+      "web_pages": ["https://www.strathmore.edu/"],
       "contact": {
         "phone": "+254 20 6007000",
         "email": "info@strathmore.edu",
@@ -1260,7 +1260,7 @@
       "domains": ["egerton.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.egerton.ac.ke/"],
+      "web_pages": ["https://www.egerton.ac.ke/"],
       "contact": {
         "phone": "+254 51 2217000",
         "email": "info@egerton.ac.ke",
