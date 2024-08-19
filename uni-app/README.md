@@ -1,6 +1,6 @@
 # Unispolight App
 
-Welcome to the Unispolight App! This application provides detailed information about universities, including a searchable and editable list of universities, courses and contact details for each institution.
+Welcome to the Unispolight App! An app that not only helps it's users to have consolidated data about the univeristies they are looking for, but also have the advantage to make adjustments in both the list of the universities and the courses offered to keep up with the new changes in the market. The application also provides contact details for each institution.
 
 # The Unispotlight App allows users to:
 
