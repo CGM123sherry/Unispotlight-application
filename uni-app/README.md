@@ -67,7 +67,8 @@ View Details: Click on university cards to view detailed information and access 
 you can also get access the app via my github link below:
 git@github.com:https://github.com/CGM123sherry/unispotlight-app
 
-as well as netlify link:
+as well as vercel link:
+https://unispotlight-application.vercel.app/
 
 npm install, then npm run dev
 http://localhost:5173/
