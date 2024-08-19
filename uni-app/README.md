@@ -5,9 +5,9 @@ Welcome to the Unispolight App! An app that not only helps it's users to have co
 # The Unispotlight App allows users to:
 
 1. Search for universities by name.
-2. Add an university
+2. Add an university(appears last in the list)
 3. Check on the courses offered.
-4. Add a course.
+4. Add a course.(apperas last in the list)
 5. View detailed contact information for each university.
 
 ## Pages
