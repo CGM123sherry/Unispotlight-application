@@ -1,9 +1,9 @@
+import "./HomePage.css";
 import React, { useState, useEffect } from "react";
 import SearchBar from "../Components/SearchBar";
 import UniversityList from "../Components/UniversityList";
 import UniversityDetails from "../Components/UniversityDetails";
 import AddUniversityForm from "../Components/AddUniversityForm";
-import "./HomePage.css";
 
 function HomePage() {
   const [universities, setUniversities] = useState([]);
