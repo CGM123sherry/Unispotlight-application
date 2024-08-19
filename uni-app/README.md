@@ -1,6 +1,6 @@
 # Unispolight App
 
-Welcome to the Unispolight App! This application provides detailed information about universities, including a searchable and filterable list of universities, courses and contact details for each institution.
+Welcome to the Unispolight App! This application provides detailed information about universities, including a searchable and editable list of universities, courses and contact details for each institution.
 
 # The Unispotlight App allows users to:
 
@@ -53,7 +53,7 @@ use the below links:
 
 run the following command to start the server:
 
-json-server --watch public/db.json --port 8000.
+## json-server --watch public/db.json --port 8000.
 
 this should open the link
 http://localhost:8000/Universities
@@ -65,10 +65,17 @@ Interact with Content: Use the search bar and filter options to customize the vi
 View Details: Click on university cards to view detailed information and access the university’s website directly.
 
 you can also get access the app via my github link below:
-git@github.com:https://github.com/CGM123sherry/unispotlight-app
+git@github.com: https://github.com/CGM123sherry/unispotlight-application/tree/master/uni-app
 
-as well as vercel link:
+## here is the netlify link:
+
+https://unispotlight-application.netlify.app/
+
+## as well as vercel link:
+
 https://unispotlight-application.vercel.app/
 
-npm install, then npm run dev
+## npm install, then npm run dev
+
 http://localhost:5173/
+you may run this if need be. but it's not quite required
