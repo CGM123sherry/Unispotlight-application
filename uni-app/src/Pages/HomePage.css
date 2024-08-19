@@ -1,0 +1,89 @@
+.home-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  min-height: 100vh;
+}
+
+.add-university-navbar {
+  position: fixed;
+  top: 0;
+  left: 200px;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #f8f9fa;
+  border-bottom: 2px solid #007bff;
+  z-index: 1000;
+}
+
+.sidebar {
+  width: 200px;
+  background-color: #acafb2;
+  padding: 10px;
+  border-right: 2px solid #007bff;
+  min-height: 80vh;
+  position: absolute;
+  top: 20;
+  left: 1;
+  z-index: 1000;
+}
+
+.sidebar a {
+  display: block;
+  color: #ffffff;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.sidebar a:hover {
+  background-color: pink#495057;
+  color: #ffffff;
+}
+
+.details {
+  flex-grow: 1;
+  padding: 20px;
+  margin-top: 60px;
+  margin-left: 270px;
+}
+
+.add-university-navbardiv {
+  margin-bottom: 0;
+}
+
+.add-university-navbarlabel {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.add-university-navbarinput {
+  padding: 5px;
+  margin-right: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.add-university-navbarbutton {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.add-university-navbarbutton:hover {
+  background-color: #0056b3;
+}
+
+.empty-state img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
